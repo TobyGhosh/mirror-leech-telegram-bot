@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silvercrystals",
+  "private_key_id": "26151d8be0d77c2b505f030e5b6d829cb8b02ace",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq3rWNY/HRU9Sn\nJerMg25jMrwfk7J71YgSi7hbnd7dH+wqyYEZoBhcc6te27cnwYH2LSMhM39DSZpt\nHJDrFL2box1EkrNjD0WDiDXSavTgJ2fONheqDF55tzocG2u1CCYRoOtDGhUA8nq2\nhSW6T5HQV87AC2gjrZyfOraOH5Ocj2Br3mahjyeU6Bj6EPwCn1Q7DgtN+i5c7Lz3\nEK/e9Uh9pKEPvpyMPceZPo3yzs8BGqPev9gkkw165JfbQ9cZEgGqHHxs7xp54G1q\n+5X2rooEWeA1/2U1g8qTfpWuN/HpgjaUFqmSAi3QQCrV/u3a7aAYQeSNN2RQ9MsJ\nRLpkfBnlAgMBAAECggEAAViggjeqXRArBGdxEna/9OTJGfqWP7wum+7L31+UCkFJ\nIWErCjelBCgeeTCD9eU5ZTt1I7rTItrpQ44juiZqBALkpSNUFHth/Hz4kkAozmdL\nvb0sBzlHuUUZ88S83tVB74ZJXuL4DWTbq0/LPKI0hOQG4KPLsz7tP/fnc6EzZDAI\nV3XqGbvabIHfHSVId7qoZ8jXGwy6AmW0MK+WO/+femYhUpE/xybuSA9zxZevG3qI\nwA6kk0kQ14KeX8BYKEEUZ17CYTkjt52aPynUyQBT3t6eLEtLYnBE5FGNyd4THCvF\no7RRvKdseTVngscPIxR5GpqJLXBxVHBEgxYUfKsINQKBgQDqx53rYW9gwznVpwxG\nK0l5zYpCRK1s7olVU/Vjc1CEX6PKWFRxRApSZhCB6viv0dodwrqsCROwsFDffHKD\ndkzZLnskYk4L2RS4nhmBIaDFD1NqB3BIM+K/XlBe7aW0rWrvIUaD8/sHJ7i47801\nCPj6gTDnwXMlqQPVyAV92I2ziwKBgQC6UFWF1jXYKKFlB8o7Xx+UIobQhybhRDjO\nE0TR/0xxJE/5kptpuDtXSnMMAigUB+5FsTo9fwBfpVQmQV/VPVfrm0fkhyYgmTM7\nccgo6agHIbxmhmpAq9yKqyBHPEJtCmdc3MUvi+8fu+0O+pHzQYofhRDD9MasSZuJ\n/F4FzXNWTwKBgQDYGs29b345rvl5M74UiJulRhBRVy3a6uX2aMWiuO4QKoh1JED1\n0Q8/MTtYmpQ2Ig+G/UseN2ysYl7Ol5pAb4/lCOfIYcQ9G5/7H2uSdQWq3aSGIDq1\n+yxnwcRw3IZ+fHHFkvd5VgZmW6WodPKKMqwayPffGy2GKMCi8u47HC2yaQKBgCTu\njbVk+/FoRG3heG4CciEMIwss70ESI+x9l1PFNqLq3suLCzGOqnyoLlwABW/LDqlT\n80aDaVCMVjzrEpMTgN0cP8kGHUGy/JvY9yNdBci8IDt2g5NkPehi+ZgFUumIeWrH\n/HJrW7A/sUMZ2lqM8FNFLkiZudQnFyToGL8vtaAzAoGAIGkRtn1W9SvBG70AJ9Aq\nz/+Cc5fwSkKToX4nu+q2wvFkxkfDQySmlXhq958QcLs9MjrsNsnAbOS0KDuZ+woT\nLvEHEz+Z8On1T80eqek1bW/v+hOg8UK9FxiJ3ShJPf8YmyUHl81jZ7FklBNECfUW\nOurEXx/Fo9ysNA3RJELTFVQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-1fjfzclt4o125hh164bekprxir@silvercrystals.iam.gserviceaccount.com",
+  "client_id": "115312996849605950986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-1fjfzclt4o125hh164bekprxir%40silvercrystals.iam.gserviceaccount.com"
+}
